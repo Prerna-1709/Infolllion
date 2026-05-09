@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Infolllion-Project
-=======
+
 # 🌳 Interactive Tree Visualizer
 
 A professional React + React Flow tree visualization tool with expand/collapse, smooth transitions, edge highlighting, search, and a live Express API backend.
